@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://img.icons8.com/ios/50/000000/physics.png"width="100"/>
-
 
 <h1 align="center"> Hi <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"/> ,I'm Gonçalo Pereira </h1>
 
