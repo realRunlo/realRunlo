@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width=50/>
 </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realRunlo&layout=compact&hide=TeX,Makefile,cMake,XSLT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realRunlo&layout=compact&hide=TeX,Makefile,cMake,XSLT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
