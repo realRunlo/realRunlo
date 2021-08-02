@@ -9,12 +9,12 @@
 
 ## ⚙️ Languages and Tools
 <h1>
-<img src="https://img.icons8.com/nolan/64/haskell.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/nolan/64/haskell.png" width=50/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width=50/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width=50/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" width=50/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width=50/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width=50/>
 </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realRunlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
