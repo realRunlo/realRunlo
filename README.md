@@ -3,7 +3,7 @@
 
 ## 📚 About me
 
-- 💻 Currently taking a degree in software engineering at University of Minho
+- 💻 Currently taking a Masters in software engineering at University of Minho
 
 
 
