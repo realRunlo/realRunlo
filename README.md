@@ -20,7 +20,6 @@
 
 ## Meaningful projects
 
-### Python:
 Domain name system-[project](https://github.com/realRunlo/DNS)
 
 Overlay for content delivery-[project](https://github.com/simaocunha71/streaming-esr)
@@ -29,7 +28,6 @@ Rasbet (betting web-site using django framework)-[project](https://github.com/re
 
 CSV to Json converter & ply-simple to ply translator-[project](https://github.com/realRunlo/PL)
 
-### PHP:
 Localizarte (web-site for museum recomendation)-[project](https://github.com/surumkata/addandSEEK-localizarte)
 
 
