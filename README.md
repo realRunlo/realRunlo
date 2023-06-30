@@ -20,17 +20,19 @@
 
 ## Meaningful projects
 
-Cloud Network Performance-[project](https://github.com/realRunlo/CNP)
+Cloud Network Performance - [here](https://github.com/realRunlo/CNP)
 
-Domain name system-[project](https://github.com/realRunlo/DNS)
+Domain name system - [here](https://github.com/realRunlo/DNS)
 
-Overlay for content delivery-[project](https://github.com/simaocunha71/streaming-esr)
+Overlay for content delivery - [here](https://github.com/simaocunha71/streaming-esr)
 
-Rasbet (betting web-site using django framework)-[project](https://github.com/realRunlo/rasbet)
+Rasbet (betting web-site using django framework) - [here](https://github.com/realRunlo/rasbet)
 
-CSV to Json converter & ply-simple to ply translator-[project](https://github.com/realRunlo/PL)
+Braguia (Tourist guide mobile app) - [here](https://github.com/simaocunha71/BraGuia)
 
-Localizarte (web-site for museum recomendation)-[project](https://github.com/surumkata/addandSEEK-localizarte)
+CSV to Json converter & ply-simple to ply translator - [here](https://github.com/realRunlo/PL)
+
+Localizarte (web-site for museum recomendation) - [here](https://github.com/surumkata/addandSEEK-localizarte)
 
 
 
