@@ -13,7 +13,7 @@
 
 "Using a sledgehammer to crack a nut"
 
-Just select the appropriate tool for the job...
+Nothing like selecting the appropriate tool for the job...
 
 ## "Meaningful" projects 
 
