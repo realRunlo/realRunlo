@@ -17,10 +17,11 @@ Nothing like selecting the appropriate tool for the job...
 
 ## "Meaningful" projects 
 
-
-Cloud Network Performance - [here](https://github.com/realRunlo/CNP)
+SNMP Key Share - [here](https://github.com/realRunlo/SNMPKeyShare)
 
 Domain name system - [here](https://github.com/realRunlo/DNS)
+
+Cloud Network Performance - [here](https://github.com/realRunlo/CNP)
 
 Overlay for content delivery - [here](https://github.com/simaocunha71/streaming-esr)
 
