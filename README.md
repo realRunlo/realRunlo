@@ -19,6 +19,8 @@ Nothing like selecting the appropriate tool for the job...
 
 SNMP Key Share - [here](https://github.com/realRunlo/SNMPKeyShare)
 
+Braga scouting platform - [here](https://github.com/realRunlo/BragaScoutingPlatform)
+
 Domain name system - [here](https://github.com/realRunlo/DNS)
 
 Cloud Network Performance - [here](https://github.com/realRunlo/CNP)
