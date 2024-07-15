@@ -7,14 +7,6 @@
 - Junior system administrator @Eurotux
 
 
-
-## ⚙️ Tools
-"If the only tool you have is a hammer, every problem looks like a nail"
-
-"Using a sledgehammer to crack a nut"
-
-Nothing like selecting the appropriate tool for the job...
-
 ## "Meaningful" projects 
 
 SNMP Key Share - [here](https://github.com/realRunlo/SNMPKeyShare)
