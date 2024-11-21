@@ -4,7 +4,6 @@
 ## About me
 
 - MSc in software engineering at University of Minho
-- System administrator @Eurotux
 
 
 ## "Meaningful" projects 
