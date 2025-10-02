@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width=30> ,I'm Gonçalo Pereira </h1>
+<h1 align="center"> Hi <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width=30> , : ) </h1>
 
 ## About me
 
